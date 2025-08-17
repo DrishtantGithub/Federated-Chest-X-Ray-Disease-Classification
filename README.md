@@ -1,1 +1,2 @@
 # Federated-Chest-X-Ray-Disease-Classification
+Employed state of the art models, such as Inception, ResNet, MobileNet and EfficientNet on the NIH chest X-ray dataset comprising 100k+ images and 30k+ patients for multi-label classification of 14 diseases also implemented federated learning, boosting performance through decentralized client-server collaboration and designed a noise removal preprocessing unit utilizing Haar wavelets, targeting the LL component of images.
